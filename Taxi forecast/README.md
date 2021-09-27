@@ -11,6 +11,13 @@
 Значение метрики RMSE на тестовой выборке должно меньше 48.
 
 ### Стэк: 
+- Pandas
+- sklearn
+- numpy
+- LightGBM
+- Matplotlib
+- StatsModels
+- CatBoost
 
 ### Проект завершен
 
