@@ -17,7 +17,6 @@
 - LightGBM
 - Matplotlib
 - StatsModels
-- CatBoost
 
 ### Проект завершен
 
